@@ -6,8 +6,6 @@
 
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/ossf/scorecard/badge)](https://scorecard.dev/viewer/?uri=github.com/ossf/scorecard)
 
-[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/{owner}/{repo}/badge)](https://scorecard.dev/viewer/?uri=github.com/{owner}/{repo})
-
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 Acme Bank is an example project to explore and experiment with building modular and maintainable Elixir/Phoenix applications. For some more context, see ElixirConf USA 2016 talk "Building an Umbrella Project":
