@@ -2,7 +2,9 @@
 
 [![Build Status](https://travis-ci.org/wojtekmach/acme_bank.svg?branch=master)](https://travis-ci.org/wojtekmach/acme_bank)
 
-[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/M1ntuPatel/bankapp.git/badge)](https://scorecard.dev/viewer/?uri=github.com/M1ntuPatel/bankapp.git)
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/M1ntuPatel/bankapp/badge)](https://scorecard.dev/viewer/?uri=github.com/M1ntuPatel/bankapp)
+
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/ossf/scorecard/badge)](https://scorecard.dev/viewer/?uri=github.com/ossf/scorecard)
 
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/{owner}/{repo}/badge)](https://scorecard.dev/viewer/?uri=github.com/{owner}/{repo})
 
