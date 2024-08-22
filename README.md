@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/wojtekmach/acme_bank.svg?branch=master)](https://travis-ci.org/wojtekmach/acme_bank)
 
-[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/{owner}/{repo}/badge)](https://scorecard.dev/viewer/?uri=github.com/{owner}/{repo})
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/{owner}/{repo}/badge)](https://scorecard.dev/viewer/?uri=https://github.com/M1ntuPatel/bankapp.git)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
